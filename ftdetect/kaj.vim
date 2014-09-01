@@ -1,0 +1,1 @@
+autocmd BufRead,BufNewFile *.kaj set filetype=kaj
